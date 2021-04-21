@@ -1,0 +1,16 @@
+{
+  "name": "chess_gui_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cm-chess": "^2.0.0",
+    "cm-chessboard": "^3.10.6",
+    "express": "^4.17.1"
+  }
+}
